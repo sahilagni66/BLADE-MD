@@ -71,9 +71,11 @@
   "OWNER_NUMBER": {
     "description": "The phone numbers of the users who you want to be admin for the bot (should be in international format without + and multiple numbers must be separated by a comma \",\")",
        "value": "put owner number"
-  },
+ },	  
    "SESSION_ID": {
-    "description": "Please put your Session ID that u scanned from the bot.... If u haven't scanned go to BLADE-MD Github Repo U can find the Scanner Option"
+    "description": "DONT CUT BLADE-MD;;; WORD PUT YOURE SESSION ID HERE.",
+    "required" :true,
+    "value": "BLADE-MD;;;"
   },
     "OPENAI_API_KEY": {
     "description": "Please put your OPENAI api key here.Get it from beta.openai.com(optional if u don't wan't then don't put it ",
@@ -82,7 +84,7 @@
   },
   "MONGODB_URI": {
     "description": "A secret String for Mongodb Connection.(Required),change for better experience",
-    "value": "mongodb://usrdhz7ejxwayzvw69qm:fRuJImqP1BOZyGk9fD6@bupt7kruqljyivftjl4i-mongodb.services.clever-cloud.com:2791/bupt7kruqljyivftjl4i"
+    "value": "mongodb://uwrr2obvrb4kbwnrvimy:rbgieh8nfk7EylXCh2D@byg4ii8uzy5rro8bcdfu-mongodb.services.clever-cloud.com:2008/byg4ii8uzy5rro8bcdfu"
   },
     "THEME": {
     "description": "Put the theme name you want to use. Avilable themes are GOJO,blade-md,NEZUKO,LUFFY,GOKU and many more..",
@@ -115,6 +117,6 @@
 		"worker": {
 			"quantity": 1,
 			"size": "basic"
-		}
+ 		}
 	}
 }
