@@ -260,7 +260,7 @@ Copy the JSON down and paste in repl then fill the vars
 </h2>
 
 [![Bladeh4x](https://github.com/Bladeh4x.png?size=200)](https://github.com/Bladeh4x) | 
- [![ahil15](https://github.com/ahil15.png?size=200)](https://github.com/ahil15) |
+
  
   </div>
 
