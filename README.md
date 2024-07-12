@@ -51,6 +51,15 @@ mongodb+srv://ahil1:787191784abhi@ahil1.kzr1tt3.mongodb.net/?retrywrites=true&w=
 ```
 
  # Deploy METHOD
+ <details close>
+<summary>RENDER DEPLOY PROCESS</summary>
+   
+    1: Click "NEW".
+    2: Select "Web Service".
+    3: Click "Build and deploy from a Git repository".
+    4: Now Choose this forked git repo from list.
+    5: And JUST CLICK "Connect". 
+   </details>
  
  <details close>
 <summary>Click to choose your favourite platform to Deploy</summary>
