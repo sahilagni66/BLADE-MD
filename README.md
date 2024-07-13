@@ -47,7 +47,7 @@
 
 # ```PUBLIC MONGODB URI```
 ```
-mongodb+srv://ahil1:787191784abhi@ahil1.kzr1tt3.mongodb.net/?retrywrites=true&w=majority
+mongodb+srv://mohsin:mohsin@cluster0.iauaztt.mongodb.net/?retryWrites=true&w=majority
 ```
 
  # Deploy METHOD
