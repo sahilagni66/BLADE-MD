@@ -61,6 +61,7 @@
     "tiktok-scraper": "^1.4.36",
     "translatte": "^3.0.1",
     "util": "^0.12.4",
+    "uuid": "^9.0.1",
     "vz-tiktok-downloader": "^2.2.5",
     "wa-sticker-formatter": "^4.3.2",
     "ytdl-secktor": "latest"
