@@ -35,8 +35,7 @@
 
 ## Deployment Methods
 ---
-1. ***Get [`SESSION ID`](https://blade-md-qr.onrender.com)  by scanning QR code. `Whatapp>Three dots>Linked Devices`***
-##
+1. ***Get [`PARING CODE`](https://blade-pair-gdhe.onrender.com/pair//) [`SESSION ID`](https://blade-0wz6.onrender.com/) by scanning QR code. `Whatapp>Three dots>Linked Devices`***
    
 # ```EXTERNAL STUFF AND API```
 
@@ -48,10 +47,19 @@
 
 # ```PUBLIC MONGODB URI```
 ```
-mongodb://usrdhz7ejxwayzvw69qm:fRuJImqP1BOZyGk9fD6@bupt7kruqljyivftjl4i-mongodb.services.clever-cloud.com:2791/bupt7kruqljyivftjl4i
+mongodb+srv://mohsin:mohsin@cluster0.iauaztt.mongodb.net/?retryWrites=true&w=majority
 ```
 
  # Deploy METHOD
+ <details close>
+<summary>RENDER DEPLOY PROCESS</summary>
+   
+    1: Click "NEW".
+    2: Select "Web Service".
+    3: Click "Build and deploy from a Git repository".
+    4: Now Choose this forked git repo from list.
+    5: And JUST CLICK "Connect". 
+   </details>
  
  <details close>
 <summary>Click to choose your favourite platform to Deploy</summary>
@@ -261,7 +269,7 @@ Copy the JSON down and paste in repl then fill the vars
 </h2>
 
 [![Bladeh4x](https://github.com/Bladeh4x.png?size=200)](https://github.com/Bladeh4x) | 
- [![ahil15](https://github.com/ahil15.png?size=200)](https://github.com/ahil15) |
+
  
   </div>
 
